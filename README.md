@@ -7,6 +7,10 @@
 ## Usage
 
 
+## Environment
+MacOS
+Xcode
+
 ## Requirement
 openframeworks 0.9.8
 
